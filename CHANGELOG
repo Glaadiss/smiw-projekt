@@ -1,0 +1,22 @@
+CHANGELOG
+
+
+1.0 - 09.01.2019
+
+Prezentacja
+
+0.9 - 07.01.2019
+
+Złączenie układu na płytce uniwersalnej
+
+0.8 - 28.12.2018
+
+Aplikacja moblina dla użytkownika
+
+0.4 - 10.12.2018
+
+Aplikacja serwerowa (broker) odbierająca dane z esp32 i z mobilnych urządzeń
+
+0.2 - 01.12.2018
+
+Zaprogramowanie funckcjonalności czytania danych z sensora i wyświetlania na oled dla esp32

@@ -1,0 +1,2 @@
+Broker source - https://github.com/Glaadiss/humidity-tracker-broker
+android source - https://github.com/Glaadiss/humidity-tracker-client
